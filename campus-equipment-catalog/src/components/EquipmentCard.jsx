@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export default function EquipmentCard({ item }) {
   return (
     <article className="equipment-card">
